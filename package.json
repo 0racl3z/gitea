@@ -10,7 +10,7 @@
     "@primer/octicons": "13.0.0",
     "add-asset-webpack-plugin": "2.0.1",
     "codemirror": "5.61.0",
-    "css-loader": "5.2.4",
+    "css-loader": "5.2.6",
     "dropzone": "5.9.2",
     "easymde": "2.15.0",
     "esbuild-loader": "2.13.0",
